@@ -1,0 +1,8 @@
+//
+// Created by patel on 2025-08-18.
+//
+
+#ifndef CHIP8_EMULATOR_CHIP8_HPP
+#define CHIP8_EMULATOR_CHIP8_HPP
+
+#endif //CHIP8_EMULATOR_CHIP8_HPP

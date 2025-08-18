@@ -1,0 +1,21 @@
+# CLion specific
+cmake-build-debug/
+.idea/
+*.iml
+
+# Compiled files
+*.o
+*.obj
+*.exe
+*.out
+*.dll
+*.pdb
+*.lib
+
+# SDL2 specific / libraries
+D:/Libraries/SDL2-2.32.6/
+
+# Other temporary files
+*.log
+*.swp
+*.DS_Store
